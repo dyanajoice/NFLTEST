@@ -13,7 +13,7 @@ Prerequisites:
 Running the Application:
 1.Clone the repository:
 
-git clone https://github.com/yourusername/NFLDepthChart.git
+git clone https://github.com/dyanajoice/NFLTEST.git  
 cd NFLDepthChart
 
 2.Build the project:
