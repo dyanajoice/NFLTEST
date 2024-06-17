@@ -29,6 +29,19 @@ Project Structure:
 Program.cs: The entry point of the application. It initializes the depth chart with players and runs example operations.
 DepthChart.cs: Contains the DepthChart class which manages the depth chart operations.
 Player.cs: Contains the Player class which represents a player.
+DepthchartTest.cs : xUnit Test case file to cover all the edge cases and all the test cases passed.
+
+Testing
+This project includes xUnit test cases to ensure all functionalities work correctly. All test cases have been written to cover various edge cases and have passed successfully, ensuring robustness and reliability.
+
+To run the tests:
+
+Navigate to the test project directory:
+
+cd NFLDepthChart.Tests
+
+Run the tests:
+dotnet test
 
 Contact:
 If you have any questions or suggestions, feel free to open an issue or contact me at [thabijose7@example.com].
